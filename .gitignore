@@ -1,0 +1,19 @@
+# Connect IQ build output
+bin/
+*.prg
+*.iq
+*.debug.xml
+
+# Local signing keys
+developer_key*
+*.der
+*.pem
+*.key
+
+# Machine-specific editor configuration
+.vscode/settings.json
+.vscode/.cquery_cached_index
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db

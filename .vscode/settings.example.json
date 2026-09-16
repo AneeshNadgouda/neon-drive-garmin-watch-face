@@ -1,0 +1,5 @@
+{
+    "monkeyC.developerKeyPath": "${workspaceFolder}/developer_key.der",
+    "monkeyC.compilerWarnings": true,
+    "monkeyC.typeCheckLevel": "Gradual"
+}

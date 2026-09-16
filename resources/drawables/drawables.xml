@@ -1,0 +1,13 @@
+<drawables>
+    <bitmap id="Background" filename="background.png" />
+    <bitmap id="BatteryHud" filename="battery-hud.png" automaticPalette="false" />
+    <bitmap id="StepsHud" filename="steps-hud.png" automaticPalette="false" />
+    <bitmap id="HeartHud" filename="heart-hud.png" automaticPalette="false" />
+    <bitmap id="DateGlyphs" filename="glyphs-date.png" automaticPalette="false" />
+    <bitmap id="BatteryGlyphs" filename="glyphs-battery.png" automaticPalette="false" />
+    <bitmap id="StepsGlyphs" filename="glyphs-steps.png" automaticPalette="false" />
+    <bitmap id="HeartGlyphs" filename="glyphs-heart.png" automaticPalette="false" />
+    <bitmap id="TimeGlyphs" filename="glyphs-time.png" automaticPalette="false" />
+    <bitmap id="SecondsGlyphs" filename="glyphs-seconds.png" automaticPalette="false" />
+    <bitmap id="LauncherIcon" filename="launcher.png" />
+</drawables>
